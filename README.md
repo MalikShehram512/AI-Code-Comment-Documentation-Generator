@@ -1,91 +1,42 @@
-Absolutely! Here's the complete, cleaned, and decorated `README.md` in a single block — ready for copy-paste:
+# 🧠 AI Code Commenter & Documenter
+
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.68%2B-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/Novita_AI-LLM-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+
+An intelligent developer tool that automatically **comments**, **documents**, and **optimizes** your code using LLMs. Built with FastAPI and Novita AI.
 
 ---
 
-````markdown
-# 🧠✨ Code Documentation Generator (LLM + Novita.ai)
+## 📸 Preview
 
-This project uses **Python + FastAPI** with a **Novita.ai-powered LLM** to generate high-quality inline code comments and documentation from pasted or uploaded code.
+*(Optional: Upload a screenshot of your app interface here later to make it look even better!)*
 
-> 🚀 Ideal for developers building AI assistants, internal tools, or automated doc generators.
+## ✨ Features
+
+* **⚡ Auto-Commenter:** Adds professional docstrings and inline comments to raw code.
+* **📄 Documentation Generator:** Creates structured JSON documentation for your modules.
+* **🚀 Code Improver:** Suggests optimizations and cleaner syntax.
+* **📂 File Support:** Upload Python files directly or paste code snippets.
+* **💻 Local & Private:** Runs locally on your machine for data privacy.
 
 ---
 
-### 🐍 Create & Activate a Virtual Environment
+## 🛠️ Tech Stack
 
-#### 💻 Windows (Command Prompt)
+* **Backend:** FastAPI (Python)
+* **AI Engine:** Novita AI (LLama 3.2 1b Instruct)
+* **Frontend:** HTML5, CSS3, JavaScript (Vanilla)
+* **Server:** Uvicorn
 
+---
+
+## 🚀 Getting Started
+
+Follow these steps to set up the project locally on your machine.
+
+### 1. Clone the Repository
 ```bash
-python -m venv venv
-venv\Scripts\activate
-```
-
-#### 🪟 Windows (PowerShell)
-
-```powershell
-python -m venv venv
-.\venv\Scripts\Activate.ps1
-```
-
-#### 🐧 Linux / macOS
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-
----
-
-### 📦 Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-> 💡 Tip: Make sure you're inside the virtual environment before running this.
-
----
-
-### 🔐 Add Environment Variables
-
-Create a `.env` file in the `/backend` directory:
-
-```env
-NOVITA_API_KEY=your_novita_api_key_here
-```
-
-> 🛡️ Keep this file secure and **do not commit it to version control**.
-
----
-
-### 🚀 Run the Application
-
-#### 🏁 Basic Python Run:
-
-```bash
-python main.py
-```
-
-#### 💻 macOS/Linux Alternative:
-
-```bash
-uvicorn main:app --reload
-```
-
-## 🔍 Features
-
-* ✅ Paste or upload code
-* 🧠 Inline and function-level comments
-* 📄 JSON-style documentation output
-* 🌐 Ready to plug into web UI or dev tools
-
-## 🤝 Contributing
-
-Feel free to fork this project, make changes, and submit pull requests. For major changes, please open an issue first to discuss what you'd like to change.
-
-```
-
----
-
-Let me know if you'd like a matching `.env.example`, `requirements.txt`, or frontend `README` too!
-```
+git clone [https://github.com/YOUR_USERNAME/code-commenter.git](https://github.com/YOUR_USERNAME/code-commenter.git)
+cd code-commenter
