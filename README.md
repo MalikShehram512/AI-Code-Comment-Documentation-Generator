@@ -11,8 +11,8 @@ An intelligent developer tool that automatically **comments**, **documents**, an
 
 ## 📸 Preview
 
-*(<img width="789" height="497" alt="image" src="https://github.com/user-attachments/assets/fa572d67-f21e-49b3-b7fd-969f86cfaebd" />
-)*
+<img width="789" height="497" alt="image" src="https://github.com/user-attachments/assets/fa572d67-f21e-49b3-b7fd-969f86cfaebd" />
+
 
 ## ✨ Features
 
@@ -39,5 +39,5 @@ Follow these steps to set up the project locally on your machine.
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/code-commenter.git](https://github.com/YOUR_USERNAME/code-commenter.git)
+git clone [https://github.com/MalikShehram512/code-commenter.git](https://github.com/MalikShehram512commenter.git)
 cd code-commenter
