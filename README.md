@@ -38,7 +38,7 @@ An intelligent developer tool that automatically **comments**, **documents**, an
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.68%2B-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-[![Run on Hugging Face](https://img.shields.io/badge/Launch_Localhost-http%3A%2F%2F127.0.0.1%3A8000-success?style=for-the-badge)](https://huggingface.co/spaces/MalikShehram/AI-Code-Comment-Documentation-Generator)
+[![Run on Hugging Face](https://img.shields.io/badge/Launch_HuggingFace-http%3A%2F%2F127.0.0.1%3A8000-success?style=for-the-badge)](https://huggingface.co/spaces/MalikShehram/AI-Code-Comment-Documentation-Generator)
 
 
 
